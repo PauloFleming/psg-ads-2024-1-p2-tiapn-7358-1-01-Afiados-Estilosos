@@ -10,14 +10,13 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Kaylan Luis Felix De Freitas Subtil 
+* Matheus Anthony Silva de Souza
+* Paulo Henrique Fleming De Freitas Almeida
 
 ## Orientador
 
-* Nome completo do professor 1
+* Sinaide Nunez Bezerra
 
 ## Instruções de utilização
 

@@ -12,7 +12,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Kaylan Luis Felix De Freitas Subtil 
 * Matheus Anthony Silva de Souza
-* Paulo Henrique Fleming De Freitas Almeida
+* Paulo Henrique F F Almeida
 
 ## Orientador
 
